@@ -1,6 +1,6 @@
 # E-commerce Celin Tech
 <div align="center">
-<img src="https://github.com/GabsLima19/NovaBook/blob/main/NovaBook_Logo.jpg?raw=true&&size=250%22%3E
+<img src="https://github.com/Gabriel-js/CelinTech/blob/main/0%20-%20Documentação/Imagem/logo.png
 </div>
 
 <br>
