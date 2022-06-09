@@ -1,6 +1,6 @@
 # E-commerce Celin Tech
 <div align="center">
-<img src=https://github.com/Gabriel-js/CelinTech/blob/main/0%20-%20Documentação/Imagem/logo.png
+<img src="https://github.com/Gabriel-js/CelinTech/blob/main/0%20-%20Documentação/Imagem/logo.png">
 </div>
 
 <br>
