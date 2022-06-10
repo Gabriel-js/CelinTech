@@ -11,9 +11,9 @@ Celin Tech é uma empresa focada em vendas de periféricos e hardwares. Este pro
 <br>
 
 ## Tecnologias
-- brModelo
-- PostgreSQL
-- SQL Power Architect
+- brModelo;
+- PostgreSQL;
+- SQL Power Architect;
 - Pentaho Data Integration
 - Power BI
 
